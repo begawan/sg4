@@ -1,0 +1,4 @@
+# REQUIREMENT
+# -----------
+flask
+gunicorn
